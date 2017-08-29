@@ -1,2 +1,2 @@
 # Bamazon
-![Alt text](/relative/path/to/screenshot.png?raw=true "Optional Title")
+![screenshot](screenshot.png?raw=true "Optional Title")
