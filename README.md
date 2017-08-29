@@ -1,2 +1,2 @@
 # Bamazon
-![screenshot](screenshot.png?raw=true "Optional Title")
+![screenshot](Screenshot.png?raw=true "Optional Title")
